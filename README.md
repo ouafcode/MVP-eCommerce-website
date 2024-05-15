@@ -15,7 +15,7 @@ As a customer, he will be able to view detailed product information so that I ca
 As a customer , he will be able to add items to  shopping cart .
 ![Cart](https://github.com/ouafcode/MVP-eCommerce-website/assets/122831322/463569ad-e2bb-4d31-9810-cff2f55e329e)
 
-#Screenshots (BACK OFFICE):
+# Screenshots (BACK OFFICE):
 ## Category list
 ![list_category](https://github.com/ouafcode/MVP-eCommerce-website/assets/122831322/d8da8bcb-6d82-40e7-9315-d00818d5ffe1)
 
