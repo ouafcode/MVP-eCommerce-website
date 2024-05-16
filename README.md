@@ -21,3 +21,6 @@ As a customer , he will be able to add items to  shopping cart .
 
 ## Product list
 ![Product_details](https://github.com/ouafcode/MVP-eCommerce-website/assets/122831322/29efbf73-dbda-4cc4-82c8-230708c9bcf5)
+
+## Order list/ Validate
+![Order](https://github.com/ouafcode/MVP-eCommerce-website/assets/122831322/98923625-3fb7-4b65-94b5-d20ca90571ea)
