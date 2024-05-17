@@ -3,12 +3,12 @@ e-Commerce store  that enables users to explore items (drones)  , add them to a 
 
 # Screenshots (FRONT OFFICE):
 ## Caterory / products
-As a customer , he will be able to browse products by category so that I can easily find items.
+As a customer , he will be able to browse products by category so he can easily find items.
 ![Category_Products](https://github.com/ouafcode/MVP-eCommerce-website/assets/122831322/8211e5fb-631c-4396-8b6d-d12f2a4f1fe4)
 
 
 ## Product details
-As a customer, he will be able to view detailed product information so that I can make purchasing decisions.
+As a customer, he will be able to view detailed product information so he can make purchasing decisions.
 ![Product](https://github.com/ouafcode/MVP-eCommerce-website/assets/122831322/9a27b103-8bb6-4290-bbd8-020a482eb7a9)
 
 ## Add to cart
