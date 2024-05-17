@@ -1,5 +1,5 @@
 # Ecommerce website for selling drones
-e-Commerce store  that enables users to explore items (drones)  , add them to a shopping cart, and users can check for drone formation and certificates . also a panel for admin to manage the orders and users .The users for this project , surveyors and GIS professionals and every person 
+e-Commerce store  that enables users to explore items (drones)  , add them to a shopping cart . also a panel for admin to manage the orders and users .The users for this project are surveyors and GIS professionals.
 
 # Screenshots (FRONT OFFICE):
 ## Caterory / products
